@@ -1,0 +1,8 @@
+<Script file="CommunityInformation.lua"/> 
+<Frame name="CommunityInformation"> 
+    <Scripts> 
+        <OnLoad> 
+            CommunityInformation_OnLoad();
+        </OnLoad>
+    </Scripts>
+</Frame>
