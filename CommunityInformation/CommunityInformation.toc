@@ -4,7 +4,7 @@
 ## Title: CommunityInformation
 ## Notes: Gets community information to a file for export to other addons.
 ## SavedVariables: CommunityInformationSettings
-## SavedVariablesPerCharacter: CommunityInformationOutput
+## SavedVariablesPerCharacter: CommunityInformationOutput, allCommunityMembers
 
 CommunityInformation.xml
 CommunityInformation.lua
